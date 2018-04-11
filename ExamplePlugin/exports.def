@@ -1,0 +1,5 @@
+LIBRARY ExamplePlugin
+EXPORTS
+    GetInterfaceVersion
+    CreatePluginInfo
+    CreatePlugin
